@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-bootstrap": "^2.5.0",
+    "react-grid-system": "^8.1.6"
+  }
+}
